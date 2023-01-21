@@ -9,17 +9,17 @@
 </head>
 <body>
     <article>
-        <h3><a href="/post">My First Post</a></h3>
+        <h3><a href="/posts/my-first-post">My First Post</a></h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, sapiente distinctio enim dolorum dolor soluta iusto. Veniam molestiae deleniti repudiandae explicabo necessitatibus iste eligendi vitae neque. Rerum nisi quis quia?</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, sapiente distinctio enim dolorum dolor soluta iusto. Veniam molestiae deleniti repudiandae explicabo necessitatibus iste eligendi vitae neque. Rerum nisi quis quia?</p>
     </article>
     <article>
-        <h3><a href="/post">My Second Post</a></h3>
+        <h3><a href="/posts/my-second-post">My Second Post</a></h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, sapiente distinctio enim dolorum dolor soluta iusto. Veniam molestiae deleniti repudiandae explicabo necessitatibus iste eligendi vitae neque. Rerum nisi quis quia?</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, sapiente distinctio enim dolorum dolor soluta iusto. Veniam molestiae deleniti repudiandae explicabo necessitatibus iste eligendi vitae neque. Rerum nisi quis quia?</p>
     </article>
     <article>
-        <h3><a href="/post">My Third Post</a> </h3>
+        <h3><a href="/posts/my-third-post">My Third Post</a> </h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, sapiente distinctio enim dolorum dolor soluta iusto. Veniam molestiae deleniti repudiandae explicabo necessitatibus iste eligendi vitae neque. Rerum nisi quis quia?</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, sapiente distinctio enim dolorum dolor soluta iusto. Veniam molestiae deleniti repudiandae explicabo necessitatibus iste eligendi vitae neque. Rerum nisi quis quia?</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, sapiente distinctio enim dolorum dolor soluta iusto. Veniam molestiae deleniti repudiandae explicabo necessitatibus iste eligendi vitae neque. Rerum nisi quis quia?</p>
